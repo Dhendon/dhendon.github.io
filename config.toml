@@ -1,6 +1,6 @@
 baseURL = "https://dhendon.github.io"
 title = “David Hendon”
-copyright = ""
+copyright = "a"
 
 theme = "minimo"
 
@@ -12,7 +12,6 @@ preserveTaxonomyNames = true
 
 [params]
   description = “Growth mindset addict”
-  favicon = "favicon.ico"
 
 [params.seo]
   # Title Separator: - – — · • * ⋆ | ~ « » < >
