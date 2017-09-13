@@ -1,6 +1,6 @@
 baseURL = "https://dhendon.github.io"
-title = “David Hendon”
-copyright = "a"
+title = "David Hendon"
+copyright = ""
 
 theme = "minimo"
 
@@ -11,7 +11,7 @@ Paginate = 5
 preserveTaxonomyNames = true
 
 [params]
-  description = “Growth mindset addict”
+  description = "Growth mindset addict"
 
 [params.seo]
   # Title Separator: - – — · • * ⋆ | ~ « » < >
@@ -47,7 +47,7 @@ preserveTaxonomyNames = true
 [[menu.main]]
   name = "Blog"
   weight = -70
-  identifier = “dhendon”
+  identifier = "dhendon"
   url = "https://dhendon.github.io"
 
 # Language Configuration
